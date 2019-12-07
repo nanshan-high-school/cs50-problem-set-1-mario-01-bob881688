@@ -10,7 +10,7 @@ int main() {
         for (sp = h;sp >i ;sp--) {
             cout << " ";}
         for (s = 1;s <= i;++s) {
-              cout << "*";}
+              cout << "#";}
          cout<<"\n";
         }
 }
